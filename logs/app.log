@@ -1,6 +1,6 @@
-2026-11-11 11:17:40,002 | INFO     | Logger ready
-2026-11-11 11:17:40,003 | WARNING  | This is what a warning looks like
-2026-11-11 11:18:03,730 | WARNING  | Skipped row 3 in data/students_messy.csv: 'Faisal Alharbi,N/A'
-2026-11-11 11:18:03,730 | WARNING  | Skipped row 5 in data/students_messy.csv: 'Omar Alshehri,'
-2026-11-11 11:18:03,730 | INFO     | Loaded 3 students from data/students_messy.csv
-2026-11-11 11:18:06,276 | ERROR    | File not found: data/nope.csv
+2026-11-11 11:33:29,932 | INFO     | Logger ready
+2026-11-11 11:33:29,932 | WARNING  | This is what a warning looks like
+2026-11-11 11:33:29,949 | WARNING  | Skipped row 3 in data/students_messy.csv: 'Faisal Alharbi,N/A'
+2026-11-11 11:33:29,949 | WARNING  | Skipped row 5 in data/students_messy.csv: 'Omar Alshehri,'
+2026-11-11 11:33:29,949 | INFO     | Loaded 3 students from data/students_messy.csv
+2026-11-11 11:33:29,962 | ERROR    | File not found: data/nope.csv
