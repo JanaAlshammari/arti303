@@ -1,0 +1,21 @@
+# TODO: add the patterns
+# Virtual environment (rebuilt from requirements.txt)
+.venv/
+
+# Python bytecode and tool caches
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Program output, not source
+logs/
+
+# Credentials - never commit these
+kaggle.json
+.env
+
+# Large data files (repositories are not file storage)
+*.zip
+*.parquet
+*.h5
